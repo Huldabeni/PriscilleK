@@ -1,5 +1,5 @@
 # PriscilleK
-Qui est priscille Kouadjo
+
 # Bonjour, je suis Priscille kouadjo  👋
 
 ## À propos de moi
@@ -53,13 +53,6 @@ l Welli est une application qui permet aux utilisateurs de suivre leur bien-êtr
 **Technologies :** `React.js + TypeScript`, `Tailwind CSS`
 
 projet en cours.....
-
----
-
-
-## 📈 Activité récente
-
-[![Graphique d'activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=[ton-utilisateur]&theme=tokyo-night&hide_border=true)](https://github.com/[ton-utilisateur])
 
 ---
 
